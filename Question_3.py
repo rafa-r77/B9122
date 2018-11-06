@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """
+
+#Made changes to the file
 web_crawler_stack.py
     - The web crawler with a stack.
 @author: Dongwook Shin and Yash Kanoria, 2014/08/14
